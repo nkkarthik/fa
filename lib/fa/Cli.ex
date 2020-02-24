@@ -1,5 +1,5 @@
 defmodule Fa.CLI do
   def main(args) do
-    IO.puts "hello #{args}"
+    IO.puts "hello, world #{args}"
   end
 end
